@@ -14,7 +14,6 @@ h1 {
 table {
     border: solid, black;
     text-align: center;
-    align-self: center;
 }
 
 tr {
@@ -24,4 +23,9 @@ tr {
 th, td {
     padding: 10px;
     border: solid, black, 1px;
+}
+
+img {
+    width:250px;
+    height:400px;
 }
