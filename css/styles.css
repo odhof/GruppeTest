@@ -1,15 +1,31 @@
 header {
     text-align: center;
     font-size:  50px;
-    background-color: yellow;
+    background-color: rgb(255, 220, 0);
+    padding-top: 0px;
+    padding-bottom: 10%;
+}
+
+.logo {
+    height: 6%;
+    width: 6%;
+    float: left;
+    padding-left: 10%;
+}
+.forsidebilde{
+    width: 90%;
+    height: 90%;
+    padding-left: 2%;
+    padding-right: 2%;
+    padding-top: 2%;
+    padding-bottom:2%;
 }
 body {
     background-color: white;
 }
 
 h1 {
-    background-color: rgb(162, 155, 179);
-    text-align: center;
+    padding-left: 8%;
 }
 table {
     border: solid, black;
